@@ -2,7 +2,7 @@
 
 
 ## ✔ Two Number Sum
-  💻 twoNumberSum.py
+  💻 [twoNumberSum.py](https://github.com/shlomogel/algoExpert/blob/main/easy/twoNumberSum.py)
   
   Write a function that takes in a non-empty array of distinct integers and an
   integer representing a target sum. If any two numbers in the input array sum
@@ -11,20 +11,20 @@
   an empty array.
   
 ## ✔ Validate Subsequence
-  💻 isValidSubsequence.py
+  💻 [isValidSubsequence.py](https://github.com/shlomogel/algoExpert/blob/main/easy/isValidSubsequence.py)
   
   Given two non-empty arrays of integers, write a function that determines
   whether the second array is a subsequence of the first one.
   
 ## ✔ Sorted Squared Array
-  💻 sortedSquaredArray.py
+  💻 [sortedSquaredArray.py](https://github.com/shlomogel/algoExpert/blob/main/easy/sortedSquaredArray.py)
   
   Write a function that takes in a non-empty array of integers that are sorted
   in ascending order and returns a new array of the same length with the squares
   of the original integers also sorted in ascending order.
   
 ## ✔ Tournament Winner
-  💻 tournamentWinner.py
+  💻 [tournamentWinner.py](https://github.com/shlomogel/algoExpert/blob/main/easy/tournamentWinner.py)
   
   There's an algorithms tournament taking place in which teams of programmers
   compete against each other to solve algorithmic problems as fast as possible.
